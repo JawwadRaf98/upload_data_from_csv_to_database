@@ -1,0 +1,1 @@
+* get column value with val variable and then set database queries.
